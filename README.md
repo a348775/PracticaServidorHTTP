@@ -16,7 +16,7 @@ La practica consiste en crear un servidor en node.js en las siguientes etapas:
 
 ## Getting Started/ Installing
 * Hacer pull o clonar el repositorio
-* Escribir en la terminal poner: "node app.js" para ejecutar
+* Escribir en la terminal: "node app.js" para ejecutar
 
 ### Prerequisites
 * Distribucion de linux
