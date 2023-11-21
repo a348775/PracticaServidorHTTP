@@ -15,9 +15,8 @@ La practica consiste en crear un servidor en node.js en las siguientes etapas:
 5) Servidor asíncrono que lea y envíe un archivo según su extensión.
 
 ## Getting Started/ Installing
-Hacer pull o clonar el repositorio
-
-Escribir en la terminal poner: "node app.js" para ejecutar
+* Hacer pull o clonar el repositorio
+* Escribir en la terminal poner: "node app.js" para ejecutar
 
 ### Prerequisites
 * Tener distribucion de linux instalada.
